@@ -1,7 +1,9 @@
-# Music_Player_App
+<img width="150" alt="image" src="https://github.com/shadiAl-Jaradat/MelodyMingle-App/assets/94618324/6df6c25a-3b4b-46e1-b44a-93199ae706fe">
+
+## Melody Mingle App "Where Melodies Meet and Scales Mingle"
 
 ## Description
-This is a music player app that allows you to play music from your phone.
+It's a music player app that allows you to play music from your phone.
 that recommends music randomly using spotify api.
 
 ## Services Used
@@ -20,20 +22,34 @@ and I used `GetMaterialApp` to use `getPages` as a routing system to navigate be
 * `google_fonts` for fonts
 
 ## Screenshots
-1. Home Screen - All Songs 
+1. All Songs & Artists 
 
-![HomeScreenShot](https://github.com/shadiAl-Jaradat/Music_Player_App/assets/94618324/5f97052b-8ca7-45a5-bea6-3a64d66fc5e4)
+![homeAndArtistSc](https://github.com/shadiAl-Jaradat/MelodyMingle-App/assets/94618324/fa0481ab-16e5-4e3f-81a1-0842908b6ffe)
 
 
 2. Now Playing Song Screen
 
-![iPhone 14 Pro Mockup Light](https://github.com/shadiAl-Jaradat/Music_Player_App/assets/94618324/2fc9cb32-da0a-4370-88fa-e730ba2b6d2e)
+![nowPlayingScreen](https://github.com/shadiAl-Jaradat/MelodyMingle-App/assets/94618324/74d200aa-0d83-4d53-afa2-3a9a433432bb)
 
-3. Animated Bottom Navigation Bar
+4. Search Screen 
 
-![AnimatedNavigationBar2](https://github.com/shadiAl-Jaradat/Music_Player_App/assets/94618324/ea074522-b93f-4963-a2a6-63d87a456f37)
+![searchScreen](https://github.com/shadiAl-Jaradat/MelodyMingle-App/assets/94618324/1f0a9be8-8d40-4aa2-90b8-c0c18f6be85e)
+
+
+## Aanimations 
+
+1. Animated Bottom Navigation Bar
+
+![bNavBar](https://github.com/shadiAl-Jaradat/MelodyMingle-App/assets/94618324/39e12a2e-68c8-4cb5-b7b5-8ef6d0d213b8)
+
+2. Animated Cards
+
+![acc](https://github.com/shadiAl-Jaradat/MelodyMingle-App/assets/94618324/8425adc9-baa3-4320-bac1-a774cb0d03fc)
+
+3. lottie Animation for Search Not Found
+ 
+![searchNotFound](https://github.com/shadiAl-Jaradat/MelodyMingle-App/assets/94618324/41c8b060-1c10-4b13-bbca-199f0daa1c1e)
 
 ## Coming Soon Screens
-* Search 
-* Podcast
-* Settings
+* Artist's info and Songs 
+* My Favourite
