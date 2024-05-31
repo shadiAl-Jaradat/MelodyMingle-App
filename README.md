@@ -26,8 +26,12 @@ and I used `GetMaterialApp` to use `getPages` as a routing system to navigate be
 
 ![homeAndArtistSc](https://github.com/shadiAl-Jaradat/MelodyMingle-App/assets/94618324/fa0481ab-16e5-4e3f-81a1-0842908b6ffe)
 
+2. Artist Info Screen  
 
-2. Now Playing Song Screen
+![infoArtFull](https://github.com/shadiAl-Jaradat/MelodyMingle-App/assets/94618324/d8b62b9a-9c54-43de-bb85-a88d7090e41a)
+
+
+3. Now Playing Song Screen
 
 ![nowPlayingScreen](https://github.com/shadiAl-Jaradat/MelodyMingle-App/assets/94618324/74d200aa-0d83-4d53-afa2-3a9a433432bb)
 
