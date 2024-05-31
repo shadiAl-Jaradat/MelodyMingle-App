@@ -138,7 +138,9 @@ class SpotifyService {
           Artist(
               id: artists[index],
               name: artist['name'],
-              imageUrl: artist['images'][0]['url']
+              imageUrl: artist['images'][0]['url'],
+              genres: List<String>.from(artist['genres']),
+              followers: artist['followers']['total'],
           )
       );
       index++;

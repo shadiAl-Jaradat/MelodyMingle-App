@@ -3,7 +3,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:get/get.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:music_player_app/core/controllers.dart';
-import 'package:music_player_app/shared_widgets/podcast_item_card.dart';
+import 'package:music_player_app/shared_widgets/artist_item_card.dart';
 import 'package:music_player_app/utils/colors.dart';
 
 class ArtistsScreen extends StatefulWidget {
