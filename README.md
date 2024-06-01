@@ -55,5 +55,4 @@ and I used `GetMaterialApp` to use `getPages` as a routing system to navigate be
 ![searchNotFound](https://github.com/shadiAl-Jaradat/MelodyMingle-App/assets/94618324/41c8b060-1c10-4b13-bbca-199f0daa1c1e)
 
 ## Coming Soon Screens
-* Artist's info and Songs 
 * My Favourite
