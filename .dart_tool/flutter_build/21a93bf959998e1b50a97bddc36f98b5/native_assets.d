@@ -1,0 +1,1 @@
+ /Users/shadijaradadt/StudioProjects/MelodyMingle-App/.dart_tool/flutter_build/21a93bf959998e1b50a97bddc36f98b5/native_assets.yaml: 
