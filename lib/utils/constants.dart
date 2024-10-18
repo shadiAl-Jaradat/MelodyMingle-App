@@ -160,3 +160,6 @@ List<String> artists = [
   "14dULnNGmLKnS59BzNrHi4",
   "0grdhNhiRLFBaFVyybqsj6"
 ];
+
+const String clientId = '51f431f488704d3fb2ad68e1d9a3e72d';
+const String clientSecret = '4e0a42a85ae04a7181c11566635b8ff2';
